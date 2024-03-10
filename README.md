@@ -18,7 +18,7 @@ pip install -r requirements.txt
 - **Waterbirds:** Download waterbirds from [here](https://nlp.stanford.edu/data/dro/waterbird_complete95_forest2water2.tar.gz) and put it in `bam/cub`.
     - In that directory, our code expects `data/waterbird_complete95_forest2water2/` with `metadata.csv` inside.
 
-- **CelebA:** Download CelebA from [here](https://www.kaggle.com/jessicali9530/celeba-dataset) and put it in `jtt/celebA`.
+- **CelebA:** Download CelebA from [here](https://www.kaggle.com/jessicali9530/celeba-dataset) and put it in `bam/celebA`.
     - In that directory, our code expects the following files/folders:
         - data/list_eval_partition.csv
         - data/list_attr_celeba.csv
