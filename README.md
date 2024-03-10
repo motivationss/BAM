@@ -1,6 +1,8 @@
 # Bias Amplification Enhances Minority Performance
 
-This code repository is adapted from [JTT's code](https://github.com/anniesch/jtt) and implements the paper "Bias Amplification Enhances Minority Group Performance". 
+This code repository is adapted from [JTT's code](https://github.com/anniesch/jtt) and implements the following paper:
+
+> [Bias Amplification Enhances Minority Performance](https://arxiv.org/pdf/2309.06717.pdf)
 
 ## Environment
 
