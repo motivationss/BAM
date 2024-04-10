@@ -2,7 +2,7 @@
 
 This code repository is adapted from [JTT's code](https://github.com/anniesch/jtt) and implements the following paper:
 
-> [Bias Amplification Enhances Minority Performance](https://arxiv.org/pdf/2309.06717.pdf)
+> [Bias Amplification Enhances Minority Group Performance](https://arxiv.org/pdf/2309.06717.pdf)
 
 ## Environment
 
@@ -38,4 +38,17 @@ pip install -r requirements.txt
 
 ```
 python run_metaScript.py --dataset CUB --aux_lambda 50 --stageOne_epoch 150 --stageOne_T 20 --stageTwo_epochs 150 --up_weights 140 --seed 42
+```
+
+## Citation 
+
+Please cite our paper if you find this code or our paper useful for your work:
+
+```
+@article{li2023bias,
+  title={Bias Amplification Enhances Minority Group Performance},
+  author={Li, Gaotang and Liu, Jiarui and Hu, Wei},
+  journal={arXiv preprint arXiv:2309.06717},
+  year={2023}
+}
 ```
